@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeriketService", "VeriketService\VeriketService.csproj", "{07A63290-EF1B-482C-A97E-653453189001}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeriketWinForm", "VeriketWinForm\VeriketWinForm.csproj", "{89322D88-F817-45B1-B7C0-27636965D644}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "VeriketSetup", "VeriketSetup\VeriketSetup.vdproj", "{E29D6EA0-4BBD-4A95-BA17-83FA5074BC2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07A63290-EF1B-482C-A97E-653453189001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07A63290-EF1B-482C-A97E-653453189001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07A63290-EF1B-482C-A97E-653453189001}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{07A63290-EF1B-482C-A97E-653453189001}.Debug|x86.Build.0 = Debug|Any CPU
+		{07A63290-EF1B-482C-A97E-653453189001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07A63290-EF1B-482C-A97E-653453189001}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07A63290-EF1B-482C-A97E-653453189001}.Release|x86.ActiveCfg = Release|Any CPU
+		{07A63290-EF1B-482C-A97E-653453189001}.Release|x86.Build.0 = Release|Any CPU
+		{89322D88-F817-45B1-B7C0-27636965D644}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89322D88-F817-45B1-B7C0-27636965D644}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89322D88-F817-45B1-B7C0-27636965D644}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{89322D88-F817-45B1-B7C0-27636965D644}.Debug|x86.Build.0 = Debug|Any CPU
+		{89322D88-F817-45B1-B7C0-27636965D644}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89322D88-F817-45B1-B7C0-27636965D644}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89322D88-F817-45B1-B7C0-27636965D644}.Release|x86.ActiveCfg = Release|Any CPU
+		{89322D88-F817-45B1-B7C0-27636965D644}.Release|x86.Build.0 = Release|Any CPU
+		{E29D6EA0-4BBD-4A95-BA17-83FA5074BC2D}.Debug|Any CPU.ActiveCfg = Debug
+		{E29D6EA0-4BBD-4A95-BA17-83FA5074BC2D}.Debug|x86.ActiveCfg = Debug
+		{E29D6EA0-4BBD-4A95-BA17-83FA5074BC2D}.Release|Any CPU.ActiveCfg = Release
+		{E29D6EA0-4BBD-4A95-BA17-83FA5074BC2D}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
